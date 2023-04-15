@@ -1,6 +1,6 @@
 title: Researcher
-url: "avishekdas.com"
-baseurl: "new_portfoio/"
+url: "https://avishekdas.com"
+baseurl: "/new_portfoio"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
