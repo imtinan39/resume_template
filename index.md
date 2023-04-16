@@ -8,7 +8,7 @@ layout: default
 
 <b>Avishek Das</b><br>
 Lecturer,<br>
-Dept. of Computer Science nd Engineering<br>
+Dept. of Computer Science and Engineering<br>
 Chittagong University of Engineering and Technology
 
 ## About Me
