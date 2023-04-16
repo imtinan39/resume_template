@@ -2,19 +2,20 @@
 layout: default
 ---
 
+
+
+<img class="profile-picture" src="images/avishek.jpg">
+
+<b>Avishek Das</b><br>
+Lecturer,<br>
+Dept. of Computer Science nd Engineering<br>
+Chittagong University of Engineering and Technology
+
 ## About Me
-
-<img class="profile-picture" src="sherlock.jpg">
-
-Hi! I am a  of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
+<div style="text-align: justify">
+Focused and enthusiastic <b>python</b> developer with a keen interest in <b>machine learning</b> and deep learning. <b>Natural Language Processing</b> is another branch of interest that has been a part of my expertise for a long time. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I consider myself as a passionate, punctual, and sincere individual who always tries to learn and undertake new challenges.
+</div>
+## Updates
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London

@@ -21,8 +21,9 @@ is_contact: true
 
 ---
 
-## Social
+## Links
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://linkedin.com/in/avishek-d/)
+2. [GitHub](https://github.com/avishek-018/)
+3. [ResearchGate](https://www.researchgate.net/profile/Avishek-Das-11)
+4. [Google Scholar](https://scholar.google.com/citations?user=vmA2X1kAAAAJ)
