@@ -3,19 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [avishek.das.ayan@gmail.com](mailto:avishek.das.ayan@gmail.com)<br>
+ [avishekdas@cuet.ac.bd](mailto:avishekdas@cuet.ac.bd)
 
-* Phone: [+91-123123](tel:+91-123123)
+
+* Phone: [+8801799730137](tel:+8801799730137)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Lecturer, Dept. of CSE
 >
-> London
+> Chittagong University of Engineering & Technology, Raozan
 >
-> United Kingdom
+> Chattogram-4349, Bangladesh
 
 ---
 

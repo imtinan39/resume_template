@@ -1,4 +1,4 @@
-title: Researcher
+title: Avishek Das
 url: "https://avishekdas.net"
 baseurl: "/new_portfoio"
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "about"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
