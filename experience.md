@@ -23,6 +23,7 @@ Computer Programming and Engineering Analysis (Sessional) | 30 | Completed (Aug'
 Computer Programming and Engineering Analysis             | 30 | Completed (Aug'22-Dec'23)
 
 
+
 ## Fellow Member
 <span class="date_large_dp">**July 2021 - Present**</span>
 *<span class='font-12'>CUET NLP LAB</span>*<br>
