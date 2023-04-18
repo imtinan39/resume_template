@@ -56,7 +56,6 @@
 
     .date_large_dp {
         height: 1.19*$image-size;
-        //width: $image-size;
         position: relative;
         margin: -40px 0 0 0px;
         float: right;
@@ -68,11 +67,6 @@
         @media (max-width: 600px) {
             display: none;
         }
-    }
-
-    img {
-        text-align: center;
-        width: 100%;
     }
 
     .date_small_dp {

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# <span class='red_h1'>Academic & Industrial</span>
 
 ## Lecturer
 <span class="date_large_dp">**July 2022 - Present**</span>
@@ -51,3 +52,24 @@ Responsibilities-
 <span class="date_large_dp">**July 2021 - July 2022**</span>
 *<span class='font-12'>Diligite Ltd.</span>*<br>
 <span class="date_small_dp">**July 2021 - July 2022**</span>
+
+---
+# <span class='red_h1'>Co-curricular</span>
+## Vice Chair(Activity)
+
+<span class="date_large_dp">**March 2022 - March 2023**</span>
+*<span class='font-12'>IEEE Young Professionals, Bangladesh Section</span>*<br>
+<span class="date_small_dp">**July 2021 - July 2022**</span>
+
+## Branch Chairperson
+
+<span class="date_large_dp">**September 2019 - October 2020**</span>
+*<span class='font-12'>IEEE CUET Student Branch</span>*<br>
+<span class="date_small_dp">**September 2019 - October 2020**</span>
+
+
+## Webmaster 
+
+<span class="date_large_dp">**August 2018 - September 2019**</span>
+*<span class='font-12'>IEEE CUET Student Branch</span>*<br>
+<span class="date_small_dp">**August 2018 - September 2019**</span>
