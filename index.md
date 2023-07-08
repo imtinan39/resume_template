@@ -18,7 +18,7 @@ Focused and enthusiastic <b>python</b> developer with a keen interest in <b>mach
 ## Updates
 
 1. Learning chatgpt prompts
-2. Started exploring multimodal domains(aciustic-visual-textual modalities)
+2. Started exploring multimodal domains(acoustic-visual-textual modalities)
 
 ## Learning Resources
 
