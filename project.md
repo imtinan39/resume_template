@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# <span class='red_h1'>Publications</span>
+# <span class='red_h1'>Projects</span>
 
 
-## Superhero Name Generator
+## <i class="fa-solid fa-square-ring"></i> Superhero Name Generator
 * Tech Stack: Python, Tensorflow, Flask, JS, CSS, HTML
 * Github URL: [Project Link](https://github.com/avishek-018/Superhero-Name-Generator)
   
