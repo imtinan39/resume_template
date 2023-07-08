@@ -17,30 +17,33 @@ Focused and enthusiastic <b>python</b> developer with a keen interest in <b>mach
 </div>
 ## Updates
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Learning chatgpt prompts
+2. Started exploring multimodal domains(aciustic-visual-textual modalities)
 
-## Typography
+## Learning Resources
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Here are some learning resources I found useful throughout my CS journey.
 
-Here is a table
+* **Books**
+  * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
+  * Transformers for Natural Language Processing [[link]](https://www.packtpub.com/product/transformers-for-natural-language-processing-second-edition/9781803247335)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
+* **Advices**
+   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
+   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
+   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
+   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+
+* **Blogs**
+   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
+   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
+   * Colah's Blog [[Link]](http://colah.github.io/).
+   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
+
 
 ---
 
-Here is a blockquote
+Qoute of the month:
 
 > To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
