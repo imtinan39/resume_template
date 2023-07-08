@@ -4,46 +4,33 @@ layout: default
 
 
 
-<img class="profile-picture" src="images/avishek.jpg">
+## Superhero Name Generator
+* Tech Stack: Python, Tensorflow, Flask, JS, CSS, HTML
+* Github URL: [Project Link](https://github.com/avishek-018/Superhero-Name-Generator)
+  
+**Goals and Objectives of the project**
 
-<b>Avishek Das</b><br>
-Lecturer,<br>
-Dept. of Computer Science and Engineering<br>
-Chittagong University of Engineering and Technology
+The developed system is based on deep learning sequence generation. We created a character level language model that will predict the next character for a given input sequence. To get a new predicted superhero name, we'll need to give our model a seed input, which can be a single character or a sequence of characters, and the model will then produce the next character it thinks should come after the input sequence.This character is then added to the seed input to create a new input, which is then used again to generate the next character, and so on.
 
-## About Me
-<div style="text-align: justify">
-Focused and enthusiastic <b>python</b> developer with a keen interest in <b>machine learning</b> and deep learning. <b>Natural Language Processing</b> is another branch of interest that has been a part of my expertise for a long time. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I consider myself as a passionate, punctual, and sincere individual who always tries to learn and undertake new challenges.
-</div>
-## Updates
-
-1. Learning chatgpt prompts
-2. Started exploring multimodal domains(acoustic-visual-textual modalities)
-
-## Learning Resources
-
-Here are some learning resources I found useful throughout my CS journey.
-
-* **Books**
-  * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
-  * Transformers for Natural Language Processing [[link]](https://www.packtpub.com/product/transformers-for-natural-language-processing-second-edition/9781803247335)
+## TransEmoC-A Transformer-Based Unified Toolkit for Emotion Classification in a Low Resource Language
 
 
-* **Advices**
-   * Collection of Advices [[link]](http://taoxie.cs.illinois.edu/advice.htm)
-   * Advice for Researchers and Students [[link]](https://homes.cs.washington.edu/~mernst/advice/#all-students)
-   * Career advice by [[Andrew Ng]](https://www.youtube.com/watch?v=733m6qBH-jI&t=655s&ab_channel=stanfordonline)
-   * Advice for Research Students [[Jason Eisner]](https://www.cs.jhu.edu/~jason/advice/)
+* Tech Stack: Python, Tensorflow, Keras
+* Capsule URL: Link
+* Github URL: Project Link
 
-* **Blogs**
-   * ACL Year-Round Mentorship [[Link]](https://mentorship.aclweb.org/Home.html)   
-   * Awesome illustrations of [[Jay Alammar]](http://jalammar.github.io/).
-   * Colah's Blog [[Link]](http://colah.github.io/).
-   * Machine Learning Mystery [[Jason Brownlee]](https://machinelearningmastery.com/category/natural-language-processing/)
+**Goals and Objectives of the project**
+You can train/validate transformer models with this module. The datset has been attached for the ease of use. You can also predict emotion from textual expression with the trained model.
 
+This git repo is a part of the Project Emotion Classification in a Resource Constrained Language. The proposed model described in the corresponding paper is wrapped up in this git project for reuse by developers and researchers.
 
----
+## IOT Based Face Recognition Attendance System
+* Tech Stack: Python, PyQT5, Tensorflow, OpenCV
+* Github URL: Project Link
 
-Qoute of the month:
+**Goals and Objectives of the project**
 
-> To a great mind, nothing is little
+There can be two types of implementations:
+
+* Student will be sitted to their seat on classroom & a HD camera can recognize all the students at once and give them attendance per class.
+* Attendance will be given as students enter the door of the classroom so that we can track when one comes in and goes out(suitable to track student activities). As there are CC Cameras installed in our facility, we may implement on cc tv footage.
