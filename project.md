@@ -5,13 +5,12 @@ layout: default
 # <span class='red_h1'>Projects</span>
 
 
-## <i class="fa-solid fa-square-ring"></i> Superhero Name Generator
+## Superhero Name Generator
 * Tech Stack: Python, Tensorflow, Flask, JS, CSS, HTML
 * Github URL: [Project Link](https://github.com/avishek-018/Superhero-Name-Generator)
-  
-**Goals and Objectives of the project**
+* Goals and Objectives of the project**
 
-The developed system is based on deep learning sequence generation. We created a character level language model that will predict the next character for a given input sequence. To get a new predicted superhero name, we'll need to give our model a seed input, which can be a single character or a sequence of characters, and the model will then produce the next character it thinks should come after the input sequence.This character is then added to the seed input to create a new input, which is then used again to generate the next character, and so on.
+  The developed system is based on deep learning sequence generation. We created a character level language model that will predict the next character for a given input sequence. To get a new predicted superhero name, we'll need to give our model a seed input, which can be a single character or a sequence of characters, and the model will then produce the next character it thinks should come after the input sequence.This character is then added to the seed input to create a new input, which is then used again to generate the next character, and so on.
 
 ## TransEmoC-A Transformer-Based Unified Toolkit for Emotion Classification in a Low Resource Language
 
