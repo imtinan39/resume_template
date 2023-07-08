@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# <span class='red_h1'>Publications</span>
 
 
 ## Superhero Name Generator
