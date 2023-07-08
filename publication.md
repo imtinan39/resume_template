@@ -22,6 +22,10 @@ MD. Asif Iqbal, **Avishek Das**,Omar Sharif, Mohammed Moshiul Hoque, Iqbal H. Sa
 
 ## Conferences
 ---
+* FaND-X: Fake News Detection using Transformer-based Multilingual Masked Language Model<br>
+MD Sijanur Rahman, Omar Sharif, **Avishek Das**, Sadia Afroze, Mohammed Moshiul Hoque<br>
+[WIECON ECE 2022](https://wiecon-ece.org/) / [Paper](https://ieeexplore.ieee.org/abstract/document/10150461)
+
 * An Empirical Framework for Identifying Sentiment from Multimodal Memes using Fusion Approach<br>
 Nusratul Jannat, **Avishek Das**, Omar Sharif, Mohammed Moshiul Hoque<br>
 [ICCIT 2022](https://iccit.org.bd/2022/) / [Paper](https://ieeexplore.ieee.org/abstract/document/10054644)
