@@ -1,6 +1,6 @@
 title: Avishek Das
 url: "https://avishekdas.net"
-#baseurl: "/"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
