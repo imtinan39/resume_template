@@ -1,6 +1,6 @@
 title: Avishek Das
 url: "https://avishekdas.net"
-baseurl: "/new_portfoio"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/new_portfoio/"
+   link: "/"
  - name: "Education"
    link: "education"
  - name: "Experience"
