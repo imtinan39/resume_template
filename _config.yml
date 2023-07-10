@@ -20,7 +20,7 @@ nav:
  - name: "About"
    link: "/"
  - name: "Education"
-   link: "education"
+   link: "education.html"
  - name: "Experience"
    link: "experience"
  - name: "Publication"
