@@ -29,5 +29,5 @@ jobs:
           username: ${{secrets.ftp_username}}
           password: ${{secrets.ftp_password}}
           local-dir: ./_site/
-          state-name: ./.ftp-deploy-sync-state.json
+          state-name: ./.ftp-deploy-sync-state.json 
           server-dir: '/' # '/new_portfoio/' # optional subdir, must end in /
