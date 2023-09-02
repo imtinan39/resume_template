@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [avishek.das.ayan@gmail.com](mailto:avishek.das.ayan@gmail.com)<br>
- [avishekdas@cuet.ac.bd](mailto:avishekdas@cuet.ac.bd)
+ [avishek@cuet.ac.bd](mailto:avishekdas@cuet.ac.bd)
 
 
 * Phone: [+8801799730137](tel:+8801799730137)
