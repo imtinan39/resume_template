@@ -46,4 +46,4 @@ Here are some learning resources I found useful throughout my CS journey.
 
 Qoute of the month:
 
-> To a great mind, nothing is little
+> Chase purpose, not perfection
