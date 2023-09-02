@@ -28,4 +28,4 @@ is_contact: true
 3. [ResearchGate](https://www.researchgate.net/profile/Avishek-Das-11)
 4. [Google Scholar](https://scholar.google.com/citations?user=vmA2X1kAAAAJ)
 
-<a href="https://clustrmaps.com/site/1bkjb"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=MeVH9Qx00KxvJNXkBmzujoN28cclz-9WuZm0HnFUH_0&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=MeVH9Qx00KxvJNXkBmzujoN28cclz-9WuZm0HnFUH_0'></script>
