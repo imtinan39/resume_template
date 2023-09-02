@@ -50,4 +50,4 @@ Qoute of the month:
 
 > Chase purpose, not perfection
 
-<script hidden type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=1&t=tt&d=MeVH9Qx00KxvJNXkBmzujoN28cclz-9WuZm0HnFUH_0'></script>
+<p hidden><script hidden type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=1&t=tt&d=MeVH9Qx00KxvJNXkBmzujoN28cclz-9WuZm0HnFUH_0'></script></p>
