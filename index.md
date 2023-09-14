@@ -18,7 +18,7 @@ Focused and enthusiastic <b>python</b> developer with a keen interest in <b>mach
 Find my [Academic CV here](https://drive.google.com/file/d/1y1U9VqySEeqeVku8xHv6mrNxkPGpWLr5/view?usp=sharing).
 
 ## Updates
-1. [13-9-23] Paper accepted at IEEE ACCESS :bookmark:
+1. Paper accepted at IEEE ACCESS [13-9-23]
 2. Learning chatgpt prompts
 3. Started exploring multimodal domains(acoustic-visual-textual modalities)
 
