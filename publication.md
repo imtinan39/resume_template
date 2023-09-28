@@ -11,7 +11,7 @@ layout: default
 * MLOps
 * Computer Vision
 
-[GOOGLE SCHOLAR](https://scholar.google.com/citations?user=vmA2X1kAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Avishek-Das-11) | [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-1589-8322) | [Semantic Scholar]
+[GOOGLE SCHOLAR](https://scholar.google.com/citations?user=vmA2X1kAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Avishek-Das-11) | [ORCiD](https://orcid.org/my-orcid?orcid=0000-0002-1589-8322) | [Semantic Scholar](https://www.semanticscholar.org/author/Avishek-Das/2113241072)
 
 ## Journals
 ---
