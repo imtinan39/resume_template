@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ 
 # <span class='red_h1'>Publications</span>
 
 ## Research Interests
