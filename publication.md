@@ -17,7 +17,7 @@ layout: default
 ---
 * TEmoX: Classification of Textual Emotion using Ensemble of Transformers [ACCEPTED]
 **Avishek Das**, Mohammed Moshiul Hoque, Omar Sharif, M. Ali Akber Dewan, Nazmul Siddique<br>
-IEEE ACCESS / [Paper]()
+IEEE ACCESS / [Paper](https://ieeexplore.ieee.org/document/10264097)
 
 * BEmoC: A Corpus for Identifying Emotion in Bengali Texts<br>
 MD. Asif Iqbal, **Avishek Das**,Omar Sharif, Mohammed Moshiul Hoque, Iqbal H. Sarker<br>
