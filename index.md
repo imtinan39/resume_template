@@ -18,7 +18,7 @@ Focused and enthusiastic <b>python</b> developer with a keen interest in <b>mach
 Find my [Academic CV here](https://drive.google.com/file/d/1HGc20miihoehUtum0TQuNUebUl3cd-fH/view?usp=sharing).
 
 ## Updates
-1. [11-10-23] 2 shared task papers accepted at BLP Workshop @EMNLP 2023
+\textcolor{green}{[11-10-23]} 2 shared task papers accepted at BLP Workshop @EMNLP 2023
 2. [13-9-23] Paper accepted at IEEE ACCESS 
 3. Learning prompts engineering
 4. Started exploring multimodal domains(acoustic-visual-textual modalities)
@@ -26,6 +26,9 @@ Find my [Academic CV here](https://drive.google.com/file/d/1HGc20miihoehUtum0TQu
 ## Learning Resources
 
 Here are some learning resources I found useful throughout my CS journey.
+
+* **LLMs**
+  * LangChain - I love these videos [[Link]](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
 * **Books**
   * Deep Learning with Python [[link]](https://www.manning.com/books/deep-learning-with-python)
