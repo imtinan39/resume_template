@@ -18,9 +18,9 @@ Focused and enthusiastic <b>python</b> developer with a keen interest in <b>mach
 Find my [Academic CV here](https://drive.google.com/file/d/1HGc20miihoehUtum0TQuNUebUl3cd-fH/view?usp=sharing).
 
 ## Updates
-<span style="color:green;"> **[11-10-23]** </span> 2 shared task papers accepted at BLP Workshop @EMNLP 2023
-<span style="color:green;"> **[13-09-23]** </span> Paper accepted at IEEE ACCESS 
-<span style="color:green;"> **[16-07-23]** </span> Learning prompts engineering
+<span style="color:green;"> **[11-10-23]** </span> 2 shared task papers accepted at BLP Workshop @EMNLP 2023 <br>
+<span style="color:green;"> **[13-09-23]** </span> Paper accepted at IEEE ACCESS <br>
+<span style="color:green;"> **[16-07-23]** </span> Learning prompts engineering <br>
 <span style="color:green;"> **[10-07-23]** </span> Started exploring multimodal domains(acoustic-visual-textual modalities)
 
 ## Learning Resources
