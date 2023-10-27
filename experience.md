@@ -13,16 +13,74 @@ layout: default
 
 Taught the following theory and sessional courses at CUET.
 
-Course Title | Class Size | Status
--------------|------------|--------------
-Compiler Designing                  | 125 | Running (May'23-)
-Compiler Designing (Sessional)      | 125 | Running (May'23-)
-Artificial Intelligence             | 125 | Completed (Oct'22-Feb'23)
-Artificial Intelligence (Sessional) | 125 | Completed (Oct'22-Feb'23)
-Software Engineering (Sessional)    | 131 | Completed (Oct'22-Feb'23)
-Computer Programming and Engineering Analysis (Sessional) | 30 | Completed (Aug'22-Dec'23)
-Computer Programming and Engineering Analysis             | 30 | Completed (Aug'22-Dec'23)
-
+<table>
+<thead>
+  <tr>
+    <th>Course Title</th>
+    <th>Class Size</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Structured Programming (C)</td>
+    <td>131</td>
+    <td>Running (Oct '23-)</td>
+  </tr>
+  <tr>
+    <td>Structured Programming (Sessional)</td>
+    <td>131</td>
+    <td>Running (Oct '23-)</td>
+  </tr>
+  <tr>
+    <td>Compiler Designing</td>
+    <td>125</td>
+    <td>Completed (May '23-Sep '23)</td>
+  </tr>
+  <tr>
+    <td>Compiler Designing (Sessional)</td>
+    <td>125</td>
+    <td>Completed (May '23-Sep '23)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Artificial Intelligence</td>
+    <td rowspan="2">125</td>
+    <td>Running (Oct '23- )</td>
+  </tr>
+  <tr>
+    <td>Completed (Oct 22-Feb '23)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Artificial Intelligence (Sessional)</td>
+    <td rowspan="2">125</td>
+    <td>Running (Oct '23 - )</td>
+  </tr>
+  <tr>
+    <td>Completed (Oct'22-Feb'23)</td>
+  </tr>
+  <tr>
+    <td>Software Engineering (Sessional)</td>
+    <td>131</td>
+    <td>Completed (Oct'22-Feb'23)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Computer Programming and Engineering Analysis (Sessional)</td>
+    <td rowspan="2">30</td>
+    <td>Completed (May '23-Sep-23)</td>
+  </tr>
+  <tr>
+    <td>Completed (Aug '22-Dec '23)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Computer Programming and Engineering Analysis</td>
+    <td rowspan="2">30</td>
+    <td>Completed (May '23-Sep '23)</td>
+  </tr>
+  <tr>
+    <td>Completed (Aug 22-Dec'23)</td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Fellow Member
