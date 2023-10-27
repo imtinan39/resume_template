@@ -15,7 +15,7 @@ layout: default
 
 ## Journals
 ---
-* TEmoX: Classification of Textual Emotion using Ensemble of Transformers
+* TEmoX: Classification of Textual Emotion using Ensemble of Transformers<br>
 **Avishek Das**, Mohammed Moshiul Hoque, Omar Sharif, M. Ali Akber Dewan, Nazmul Siddique<br>
 IEEE ACCESS / [Paper](https://ieeexplore.ieee.org/document/10264097)
 
