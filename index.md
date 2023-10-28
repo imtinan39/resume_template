@@ -15,7 +15,7 @@ Chittagong University of Engineering and Technology
 <div style="text-align: justify">
 Focused and enthusiastic <b>python</b> developer with a keen interest in <b>machine learning</b> and deep learning. <b>Natural Language Processing</b> is another branch of interest that has been a part of my expertise for a long time. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I consider myself as a passionate, punctual, and sincere individual who always tries to learn and undertake new challenges.
 </div><br>
-Find my [Academic CV here](https://drive.google.com/file/d/1HGc20miihoehUtum0TQuNUebUl3cd-fH/view?usp=sharing).
+Find my <a herf="https://drive.google.com/file/d/1Uw8VQCKhl5MHb6fWfI_bZM2_rMw-BD21/view?usp=sharing" target="_blank">Academic CV here</a>.
 
 ## Updates
 <span style="color:green;"> **[11-10-23]** </span> 2 shared task papers accepted at BLP Workshop @EMNLP 2023 <br>
