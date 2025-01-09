@@ -8,7 +8,7 @@ layout: default
 <span class="date_large_dp">**July 2022 - July 2024**</span>
 *<span class='font-12'>Dept. of Computer Science & Engineering</span>*<br>
 <span class='font-12'>Chittagong University of Engineering and Technology</span><br>
-<span class="date_small_dp">**July 2022 - Present**</span>
+<span class="date_small_dp">**July 2022 - July 20224**</span>
 
 
 Taught the following theory and sessional courses at CUET.
