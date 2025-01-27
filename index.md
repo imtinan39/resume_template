@@ -8,7 +8,7 @@ layout: default
 
 <b>Avishek Das</b><br>
 Graduate Research Assistant, DaSe Lab<br>
-Dept. of Computer Science<br>
+PhD Student, Dept. of Computer Science<br>
 Kansas State University
 
 ## About Me
