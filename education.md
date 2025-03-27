@@ -19,8 +19,8 @@ GPA: 5.00 out of 5.00<br>
 # International Certification
 
 ### Language Profociency Test-IELTS 
-<b>Score:</b> 7.5 [(Score Card)](https://drive.google.com/file/d/1JeBz_ioZM3W2phpeg2pye9y66rxjupjO/view?usp=sharing) <br>
-Listening - 8.5 | Reading - 8.0 | Speaking - 7.5 | Writing - 6.5 <br>
+<b>Score:</b> 8.0  <br>
+Listening - 9.0 | Reading - 8.5 | Speaking - 7.0 | Writing - 6.5 <br>
 Test taken: Sep 23, 2021
 <br><br>
 ### ITEE FE Level-II Examination
