@@ -20,8 +20,8 @@ GPA: 5.00 out of 5.00<br>
 
 ### Language Profociency Test-IELTS 
 <b>Score:</b> 8.0  <br>
-Listening - 9.0 | Reading - 8.5 | Speaking - 7.0 | Writing - 6.5 <br>
-Test taken: Sep 23, 2021
+Listening - 8.5 | Reading - 9.0 | Speaking - 7.0 | Writing - 6.5 <br>
+Test taken: Oct 07, 2023
 <br><br>
 ### ITEE FE Level-II Examination
 <b>Status:</b> Full Passer[(Certificate)](https://drive.google.com/file/d/1GgsvBvtLp00ZlRSJXc6tImNPn6dT7S6K/view?usp=sharing)
