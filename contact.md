@@ -3,29 +3,29 @@ layout: default
 is_contact: true
 ---
 
-* Email: [avishek.das.ayan@gmail.com](mailto:avishek.das.ayan@gmail.com)<br>
- [avishek@cuet.ac.bd](mailto:avishekdas@cuet.ac.bd)
+* Email: [j.m.imtinan@gmail.com](mailto:j.m.imtinan@gmail.com)<br>
+ [j.m.imtinan@utk.edu](mailto:j.m.imtinan@utk.edu)
 
 
-* Phone: [+8801799730137](tel:+8801799730137)
+* Phone: [+4235809908](tel:+4235809908)
 
 ---
 
 ## Mailing Address
 
-> Lecturer, Dept. of CSE
+> Database Administrator, Digital Initiatives
 >
-> Chittagong University of Engineering & Technology, Raozan
+> The University of Tennessee at Knoxville
 >
-> Chattogram-4349, Bangladesh
+> Knoxville, Tennessee
 
 ---
 
 ## Links
 
 1. [LinkedIn](https://linkedin.com/in/avishek-d/)
-2. [GitHub](https://github.com/avishek-018/)
+2. [GitHub](https://github.com/imtinan39/)
 3. [ResearchGate](https://www.researchgate.net/profile/Avishek-Das-11)
-4. [Google Scholar](https://scholar.google.com/citations?user=vmA2X1kAAAAJ)
+4. [Google Scholar](https://scholar.google.com/citations?hl=en&user=iqJeTfsAAAAJ)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=tt&d=MeVH9Qx00KxvJNXkBmzujoN28cclz-9WuZm0HnFUH_0'></script>
