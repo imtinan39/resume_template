@@ -4,27 +4,27 @@ layout: default
 
 # Education
 
+### The University of Tennessee at Chattanooga
+Masters in Computer Science with Data Science Concentration<br>
+January 2023 - August 2024<br>
+CGPA: <b>4.00</b> / 4.00<br>
+<br><br>
+
 ### Chittagong University of Engineering & Technology(CUET)
 B.Sc. in Computer Science and Engineering<br>
 February 2016 - June 2021<br>
-CGPA: <b>3.80(with Honors)</b> / 4.00<br>
-Merit Position: <b>4<sup>th</sup></b> / 120
+CGPA: <b>3.40(3.60 last 60 credit)</b> / 4.00<br>
+Merit Position: <b>26<sup>th</sup></b> / 120
 <br><br>
-### Brahmanbaria Govt. College
-Higher Secondary School Certificate (HSC)<br>
-June 2013 - May 2015<br>
-GPA: 5.00 out of 5.00<br>
 
 ---
 # International Certification
 
 ### Language Profociency Test-IELTS 
-<b>Score:</b> 8.0  <br>
+<b>Score:</b> 7.5  <br>
 Listening - 8.5 | Reading - 9.0 | Speaking - 7.0 | Writing - 6.5 <br>
 Test taken: Oct 07, 2023
 <br><br>
-### ITEE FE Level-II Examination
-<b>Status:</b> Full Passer[(Certificate)](https://drive.google.com/file/d/1GgsvBvtLp00ZlRSJXc6tImNPn6dT7S6K/view?usp=sharing)
 
 ---
 # Online Course/Certification
