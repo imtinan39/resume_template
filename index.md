@@ -6,10 +6,8 @@ layout: default
 
 <img class="profile-picture" src="images/avishek.jpg">
 
-<b>Avishek Das</b><br>
-Graduate Research Assistant, DaSe Lab<br>
-PhD Student, Dept. of Computer Science<br>
-Kansas State University
+<b>J.M. Imtinan Uddin</b><br>
+Database Administrator
 
 ## About Me
 <div style="text-align: justify">
