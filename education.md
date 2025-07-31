@@ -13,7 +13,7 @@ CGPA: <b>4.00</b> / 4.00<br>
 ### Chittagong University of Engineering & Technology(CUET)
 B.Sc. in Computer Science and Engineering<br>
 February 2016 - June 2021<br>
-CGPA: <b>3.40(3.60 last 60 credit)</b> / 4.00<br>
+CGPA: <b>3.40(3.66 last 60 credit)</b> / 4.00<br>
 Merit Position: <b>26<sup>th</sup></b> / 120
 <br><br>
 
